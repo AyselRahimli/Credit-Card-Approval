@@ -1,0 +1,1 @@
+This project leverages machine learning techniques to predict whether a credit card application will be approved or rejected based on applicant data. By automating the decision-making process, the project demonstrates how financial institutions can use data-driven approaches to evaluate creditworthiness efficiently.
